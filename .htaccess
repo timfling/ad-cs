@@ -1,0 +1,4 @@
+PassengerNodejs /home/q/q297778k/.local/bin/node
+PassengerAppRoot /home/q/q297778k/ad-concept.store
+PassengerAppType node
+PassengerStartupFile app.js
